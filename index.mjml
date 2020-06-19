@@ -1,0 +1,58 @@
+<mjml>
+  <mj-head>
+    <mj-font name="Roboto Mono" href="https://fonts.googleapis.com/css2?family=Roboto&family=Roboto+Mono&display=swap" />
+    <mj-style> @media all and (max-width:480px) { .align div { text-align: center!important; } } </mj-style>
+  </mj-head>
+  <mj-body>
+    <!-- top section -->
+    <mj-section background-color="#202020" padding="0">
+      <mj-column>
+        <mj-image width="200px" src="https://i.imgur.com/3GNk6wp.png"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#FCBE00">
+      <mj-column width="520px">
+        <mj-text padding="0px" font-family='Roboto, sans-serif' align="center" letter-spacing="5px" text-transform="uppercase" line-height="25px" font-size="18px" css-class="border" font-weight="bold">Look what just arrived</mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- header section -->
+    <mj-section background-url="https://i.imgur.com/lazUgWx.jpg" background-size="cover">
+      <!-- Button -->
+      <mj-column>
+        <mj-button href="http://prabintamang.uk" padding-top="300px" background-color="#FCBE00" color="#383838" text-transform="uppercase" font-family="Roboto Mono, monospace">Click to Order Now!</mj-button>
+        <mj-text align="center" font-family="Roboto Mono, monospace" color="#fff">PROMO CODE: LUCK</mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- product info section-->
+    <mj-section>
+      <mj-column>
+        <mj-text padding-top="20px" padding-bottom="0" align="center" font-size="15px" font-family='Roboto, sans-serif' letter-spacing="2px" text-transform="uppercase" font-weight="bold">- About our new ale - </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#FDFDFD" padding-top="20px">
+      <mj-column vertical-align="middle" width="250px">
+        <mj-image src="https://i.imgur.com/yHjqLZf.jpg"></mj-image>
+      </mj-column>
+      <mj-column vertical-align="middle" width="250px">
+        <mj-text css-class="align" padding-bottom="0" font-size="13px" font-family='Roboto, sans-serif' letter-spacing="1px" font-weight="bold">MANY DIFFERENT FLAVOURS</mj-text>
+        <mj-text css-class="align" font-family="Roboto Mono, monospace" color="#B7B7B7" line-height="20px">A 5.6% west coast IPA: golden, immensely hoppy and alive with grapefruit, peach and mango flavours.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#FDFDFD" direction="rtl" padding-bottom="40px">
+      <mj-column vertical-align="middle" width="250px">
+        <mj-image src="https://i.imgur.com/EXoWLI1.jpg"></mj-image>
+      </mj-column>
+      <mj-column css-class="align" vertical-align="middle" width="250px">
+        <mj-text padding-bottom="0" font-size="13px" font-family='Roboto, sans-serif' letter-spacing="1px" font-weight="bold"> HOME IS OUR HEART</mj-text>
+        <mj-text css-class="align" font-family="Roboto Mono, monospace" color="#B7B7B7" line-height="20px"> From the heart of South-East our head Brewer is always experimenting with new and exciting flavours.</mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- footer -->
+    <mj-section background-color="#292929" padding="50px 0">
+      <mj-column width="350px">
+        <mj-text color="#939393" align="center" font-family="Roboto Mono, monospace" font-size="10px" line-height="20px"> James Craft Beers, Inc. Woolwich New Road, London, Greenwich 9410</mj-text>
+        <mj-text color="#939393" align="center" font-family="Roboto Mono, monospace" font-size="10px"><a href="#" style="color: #fff;" text-decoration="underline"> Unsubscribe</a> or manage your subscriptions</mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
