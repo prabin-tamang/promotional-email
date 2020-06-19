@@ -40,7 +40,7 @@
     </mj-section>
     <mj-section background-color="#FDFDFD" direction="rtl" padding-bottom="40px">
       <mj-column vertical-align="middle" width="250px">
-        <mj-image src="https://i.imgur.com/EXoWLI1.jpg"></mj-image>
+        <mj-image src="https://i.imgur.com/J6k2YGd.jpg"></mj-image>
       </mj-column>
       <mj-column css-class="align" vertical-align="middle" width="250px">
         <mj-text padding-bottom="0" font-size="13px" font-family='Roboto, sans-serif' letter-spacing="1px" font-weight="bold"> HOME IS OUR HEART</mj-text>
